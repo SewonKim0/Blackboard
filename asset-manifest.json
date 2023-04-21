@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blackboard/static/css/main.073c9b0a.css",
+    "main.js": "/Blackboard/static/js/main.2fc40648.js",
+    "static/js/787.3215437d.chunk.js": "/Blackboard/static/js/787.3215437d.chunk.js",
+    "static/media/logo.svg": "/Blackboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blackboard/index.html",
+    "main.073c9b0a.css.map": "/Blackboard/static/css/main.073c9b0a.css.map",
+    "main.2fc40648.js.map": "/Blackboard/static/js/main.2fc40648.js.map",
+    "787.3215437d.chunk.js.map": "/Blackboard/static/js/787.3215437d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2fc40648.js"
+  ]
+}
